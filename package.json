@@ -1,4 +1,5 @@
 {
+  "homepage":"http://SachinJ6996.github.io/flashcard_Almabetter",
   "name": "flashcard_generator",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "autoprefixer": "^10.4.16",
+    "dotenv": "^16.3.1",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.33",
     "react": "^18.2.0",
@@ -22,6 +24,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deplay": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -46,6 +50,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
+    "gh-pages": "^6.1.1",
     "postcss-cli": "^11.0.0",
     "tailwindcss": "^3.4.0"
   }
