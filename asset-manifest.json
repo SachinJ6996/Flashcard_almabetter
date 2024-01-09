@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flashcard_Almabetter/static/css/main.2b0e7967.css",
+    "main.js": "/flashcard_Almabetter/static/js/main.db11eca4.js",
+    "static/media/Details_IMG.gif": "/flashcard_Almabetter/static/media/Details_IMG.964793e1d0d0b2061df5.gif",
+    "static/media/bg.jpg": "/flashcard_Almabetter/static/media/bg.a13f3aa86a81912bfba1.jpg",
+    "index.html": "/flashcard_Almabetter/index.html",
+    "main.2b0e7967.css.map": "/flashcard_Almabetter/static/css/main.2b0e7967.css.map",
+    "main.db11eca4.js.map": "/flashcard_Almabetter/static/js/main.db11eca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b0e7967.css",
+    "static/js/main.db11eca4.js"
+  ]
+}
